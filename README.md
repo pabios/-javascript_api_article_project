@@ -1,15 +1,15 @@
 # Article Api 
 L'api back a été concus par Aurélien Vaast 
 mon but c'est juste de maniler ces donnees et de travailler sur la partie fronts du projet. 
-Formation issus du webinaire openclassrooms
+*Formation issus du webinaire openclassrooms
 
 # Specifications
 
-● A l’arrivée sur le site, les utilisateurs doivent voir les derniers articles
+* A l’arrivée sur le site, les utilisateurs doivent voir les derniers articles
 publiés par le site, avec le nom de l’article, sa date de publication, et
 son contenu (image + texte). Les articles doivent apparaître du plus
 récent au plus ancien.
-● Sur chaque article est présente une étoile blanche. Si l’utilisateur
+* Sur chaque article est présente une étoile blanche. Si l’utilisateur
 clique dessus, elle devient jaune et l’article est ajouté dans le
 localstorage pour être conservé par l’utilisateur. Il doit être possible
 de re-cliquer sur l’étoile pour retirer l’article des favoris.
