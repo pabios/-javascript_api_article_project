@@ -1,5 +1,5 @@
 # Article Api 
-L'api back ainsi que le css du projet a été concus par Aurélien Vaast 
+L'api back ainsi que le html/css du projet a été concus par Aurélien Vaast [mostuf](https://github.com/mostuf/Jsnews)
 * mon but c'est  de manipuler les donnees de l'api en mettant en pratique les concept javascript apris. 
 
 * Formation issus d'un webinaire openclassrooms
@@ -83,5 +83,5 @@ POST /api/article/
 > [  
 > &nbsp;&nbsp;&nbsp;{article},  
 > &nbsp;&nbsp;&nbsp;...  
-> ]  # javascript_api_article_project
-# -javascript_api_article_project
+> ]
+
