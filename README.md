@@ -1,7 +1,8 @@
 # Article Api 
-L'api back a été concus par Aurélien Vaast 
-mon but c'est juste de maniler ces donnees et de travailler sur la partie fronts du projet. 
-*Formation issus du webinaire openclassrooms
+L'api back ainsi que le css du projet a été concus par Aurélien Vaast 
+* mon but c'est  de manipuler les donnees de l'api en mettant en pratique les concept javascript apris. 
+
+* Formation issus d'un webinaire openclassrooms
 
 # Specifications
 
@@ -13,10 +14,6 @@ récent au plus ancien.
 clique dessus, elle devient jaune et l’article est ajouté dans le
 localstorage pour être conservé par l’utilisateur. Il doit être possible
 de re-cliquer sur l’étoile pour retirer l’article des favoris.
-
-## Téléchargement
-Copier l'url du repository et faire un : 
-* git clone https://github.com/mostuf/Javanews.git
 
 ## Installation
 Vous devez avoir installé nodejs et npm sur votre machine : https://www.npmjs.com/get-npm
