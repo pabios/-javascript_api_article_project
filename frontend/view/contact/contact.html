@@ -47,19 +47,26 @@
 
     <div class="container">
         <h1>Contactez nous !</h1>
-        <div class="form row">
+        <form class="form row">
+            <div class="form-group col-12">
+                <label id="info"></label>
+            </div>
+            <div class="form-group col-12">
+                <label>code</label>
+                <input required type="text" id="code" name="code" class="form-control" placeholder="code-">
+            </div>
             <div class="form-group col-12">
                 <label>E-mail</label>
-                <input required type="email" name="mail" class="form-control" placeholder="jean.dupond@mail.fr">
+                <input required type="email" id="email" name="mail" class="form-control" placeholder="jean.dupond@mail.fr">
             </div>
             <div class="form-group col-12">
                 <label>Votre message</label>
-                <textarea required minlength="5" maxlength="400" name="message" class="form-control" rows="5"></textarea>
+                <textarea required minlength="5" id="message" maxlength="400" name="message" class="form-control" rows="5"></textarea>
             </div>
             <div class="form-group col-12">
-                <input type="button" class="btn btn-primary col-12" value="envoyer" id="envoyer">
+                <input type="submit" id="envoyer" class="btn btn-primary col-12" value="envoyer" id="envoyer">
             </div>
-        </div>
+        </form>
     </div>
 
     <script src="../contact/contact.js"></script>
